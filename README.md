@@ -17,18 +17,12 @@ Find out more about me & feel free to connect with me here:
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 	</a>
   <a href="https://github.com/Gourish14/">
-		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
+		<img src="https://img.shields.io/github/followers/Gourish14?style=social"/>
 	</a>
   <a href="mailto:gourishbhagat01@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
-
----
-
-![Gourish's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=gourish14&hide_border=true&theme=redical)
-
----
 
 ## ⚡ Tech Stack
 
@@ -66,9 +60,4 @@ Find out more about me & feel free to connect with me here:
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Asmit2952&show_icons=true&hide_border=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Asmit2952&hide_border=true&theme=radical" />
-</p>
-
----
-<p align="center">
-   <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
