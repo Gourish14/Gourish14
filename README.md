@@ -13,7 +13,7 @@ Find out more about me & feel free to connect with me here:
 	<a href="https://www.linkedin.com/in/gourish-bhagat-4725061a9/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-	<a href="https://www.instagram.com/gourish_._bhagat/">
+	<a href="https://www.instagram.com/gourish._.bhagat/">
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 	</a>
   <a href="https://github.com/Gourish14/">
