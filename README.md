@@ -1,7 +1,5 @@
 # Hey, I am Gourish !! Great to see you here! <img src="/wave.gif" width="30px">
 
-<img src="/header_.png">
-
 I am Gourish Bhagat, currently pursuing my Bachelor's in Electronics and Communication Engineering from Silicon Institute of Technology, Sambalpur. With a keen interest in programming and coding, aiming to build a career in the field of software development.
 I am a competitive programmer with some descent knowledge of Data Structure and Algorithm and have frequently participated in CodeChef Contests.
 I am also a Full Stack Web Developer. 
