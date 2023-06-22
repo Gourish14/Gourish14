@@ -1,11 +1,11 @@
 # Hey, I am Gourish !! Great to see you here! <img src="/wave.gif" width="30px">
 
-Hello everyone, My name is Gourish Bhagat and currently, I am working as Software Engineer Trainee at Cozentus Technologies. For more information, have a look at the below listed points.
-📍Highly motivated software engineer eager to kick-start my career in the tech industry.
-📍Recent graduate with a strong academic background in electronics and communication engineering and a passion for coding and problem-solving.
-📍Proficient in Full Stack Web Development and Data Analytics, I possess a solid foundation in software development principles and methodologies. 
-📍A quick learner with excellent analytical skills, I am eager to apply my knowledge and contribute to innovative projects. 
-📍Committed to delivering high-quality solutions, I thrive in collaborative team environments and continuously seek opportunities to expand my skill set.
+Hello everyone, My name is Gourish Bhagat and currently, I am working as Software Engineer Trainee at Cozentus Technologies. For more information, have a look at the below listed points.<br>
+📍Highly motivated software engineer eager to kick-start my career in the tech industry.<br>
+📍Recent graduate with a strong academic background in electronics and communication engineering and a passion for coding and problem-solving.<br>
+📍Proficient in Full Stack Web Development and Data Analytics, I possess a solid foundation in software development principles and methodologies.<br>
+📍A quick learner with excellent analytical skills, I am eager to apply my knowledge and contribute to innovative projects.<br>
+📍Committed to delivering high-quality solutions, I thrive in collaborative team environments and continuously seek opportunities to expand my skill set.<br>
 📍Let's connect and explore how we can leverage technology to create impactful solutions.
 <p align="center">
 	<a href="https://www.linkedin.com/in/gourish-bhagat-4725061a9/">
