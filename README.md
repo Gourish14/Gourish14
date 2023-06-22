@@ -1,12 +1,12 @@
 # Hey, I am Gourish !! Great to see you here! <img src="/wave.gif" width="30px">
 
-I am Gourish Bhagat, currently pursuing my Bachelor's in Electronics and Communication Engineering from Silicon Institute of Technology, Sambalpur. With a keen interest in programming and coding, aiming to build a career in the field of software development.
-I am a competitive programmer with some descent knowledge of Data Structure and Algorithm and have frequently participated in CodeChef Contests.
-I am also a Full Stack Web Developer. 
-Apart from this I love to work on IoT projects and also have my hands on UI/UX and Graphical Designing.
-
-Find out more about me & feel free to connect with me here:
-
+Hello everyone, My name is Gourish Bhagat and currently, I am working as Software Engineer Trainee at Cozentus Technologies. For more information, have a look at the below listed points.
+📍Highly motivated software engineer eager to kick-start my career in the tech industry.
+📍Recent graduate with a strong academic background in electronics and communication engineering and a passion for coding and problem-solving.
+📍Proficient in Full Stack Web Development and Data Analytics, I possess a solid foundation in software development principles and methodologies. 
+📍A quick learner with excellent analytical skills, I am eager to apply my knowledge and contribute to innovative projects. 
+📍Committed to delivering high-quality solutions, I thrive in collaborative team environments and continuously seek opportunities to expand my skill set.
+📍Let's connect and explore how we can leverage technology to create impactful solutions.
 <p align="center">
 	<a href="https://www.linkedin.com/in/gourish-bhagat-4725061a9/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
