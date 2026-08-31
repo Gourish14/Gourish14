@@ -1,6 +1,6 @@
 # Hey, I am Gourish !! Great to see you here! <img src="/wave.gif" width="30px">
 
-Hello everyone, My name is Gourish Bhagat and currently, I am working as Software Engineer Trainee at Cozentus Technologies. For more information, have a look at the below listed points.<br>
+Hello everyone, My name is Gourish Bhagat and currently, I am working as Java Angular Full Stack Developer at Cozentus Technologies. For more information, have a look at the below listed points.<br>
 📍Highly motivated software engineer eager to kick-start my career in the tech industry.<br>
 📍Recent graduate with a strong academic background in electronics and communication engineering and a passion for coding and problem-solving.<br>
 📍Proficient in Full Stack Web Development, I possess a solid foundation in software development principles and methodologies.<br>
